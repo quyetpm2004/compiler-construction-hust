@@ -1,0 +1,10 @@
+Program
+Example5
+X¹
+Var
+n
+X¹
+Integer
+¹
+i
+4-7:Missing ':'

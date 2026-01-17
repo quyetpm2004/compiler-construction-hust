@@ -1,0 +1,8 @@
+Program Example1; 
+Var n : integer;
+Begin
+    n := 5;
+    n := 10 * n;
+    CALL WRITEI(n);
+    CALL WRITELN;
+End. 

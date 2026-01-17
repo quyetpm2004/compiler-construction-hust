@@ -1,0 +1,11 @@
+Program Vidu1; (* Vi du 1 *)
+Var x, y = 20, z, a, b, s : integer;
+Begin
+    a := 10;
+    b := 100;
+    s := 0;
+
+    For(a := 10; a <= 100; a := a + 1)
+        s := s + a;
+    
+End.

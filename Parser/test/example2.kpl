@@ -1,0 +1,7 @@
+Program Vidu3;
+Var a, b, x : integer;
+Begin
+  a := 10;
+  b := 20;
+  x := a > b ? a + 5 : b * 2;
+End.
